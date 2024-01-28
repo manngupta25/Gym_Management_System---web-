@@ -1,0 +1,3 @@
+Database name :- college
+user id :- admin
+password :- 1234
